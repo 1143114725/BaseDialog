@@ -26,5 +26,5 @@ dependencyResolutionManagement {
     }
 }
 enableFeaturePreview("VERSION_CATALOGS")
-rootProject.name = "KotlinDsl"
+rootProject.name = "BaseDialog"
 include(":app")

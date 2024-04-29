@@ -3,6 +3,7 @@ import kotlin.script.experimental.jvm.util.KotlinJars.stdlib
 plugins {
     id("com.android.application")
     id("org.jetbrains.kotlin.android")
+    id("kotlin-android-extensions")
 }
 
 android {
